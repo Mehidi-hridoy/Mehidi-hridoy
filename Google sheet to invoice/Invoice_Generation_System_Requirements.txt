@@ -1,0 +1,64 @@
+
+Invoice Generation System - Requirements & Instructions
+
+1. Prerequisites
+- Python 3.7+ installed.
+- Virtual Environment (optional but recommended for dependency management).
+
+2. Install Required Libraries
+Make sure to install the necessary libraries via pip. Run the following command to install them:
+```bash
+pip install pandas reportlab pdfkit flask weasyprint
+```
+
+3. Additional Dependencies for Specific Libraries
+
+For pdfkit (requires wkhtmltopdf):
+- Windows: Download and install wkhtmltopdf from https://wkhtmltopdf.org/downloads.html.
+- Linux/macOS: Run the following command to install wkhtmltopdf:
+  - Debian/Ubuntu:
+    ```bash
+    sudo apt-get install -y wkhtmltopdf
+    ```
+  - macOS (using Homebrew):
+    ```bash
+    brew install wkhtmltopdf
+    ```
+
+If using WeasyPrint, you'll need additional system libraries:
+- Ubuntu/Debian:
+  ```bash
+  sudo apt-get install -y libpango-1.0-0 libgdk-pixbuf2.0-0
+  ```
+
+4. Running the Invoice Generation Script
+
+- For Python Script (invoice_generator.py), run:
+  ```bash
+  python invoice_generator.py
+  ```
+
+- For Flask Web UI, run:
+  ```bash
+  python app.py
+  ```
+  Then open a browser and go to:  
+  👉 http://127.0.0.1:5000/
+
+5. Troubleshooting & Common Issues
+
+- "ModuleNotFoundError: No module named 'pdfkit'"  
+  Solution: Run:  
+  ```bash
+  pip install pdfkit
+  ```
+
+- "wkhtmltopdf: command not found"  
+  Solution: Ensure wkhtmltopdf is installed and added to your system’s PATH.
+
+- "WeasyPrint requires additional dependencies"  
+  Solution: Run the following for Ubuntu/Debian systems:  
+  ```bash
+  sudo apt-get install -y libpango-1.0-0 libgdk-pixbuf2.0-0
+  ```
+
