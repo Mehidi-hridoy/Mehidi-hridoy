@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CRM Dashboard</title>
+</head>
+<body>
+    <h1>Real Estate CRM Dashboard</h1>
+    <p>Total Leads: {{ total_leads }}</p>
+    <p>Normal Leads: {{ normal_leads }}</p>
+    <p>Hot Leads: {{ hot_leads }}</p>
+    <p>Warm Leads: {{ warm_leads }}</p>
+    <p>Cold Leads: {{ cold_leads }}</p>
+    
+    <h2>All Leads</h2>
+    <table border="1">
+        <tr>
+            <th>SL</th>
+            <th>Lead ID</th>
+            <th>Customer Name</th>
+            <th>Mobile</th>
+            <th>Lead Type</th>
+            <th>Followup</th>
+            <th>Associate</th>
+        </tr>
+        {% for lead in leads %}
+        <tr>
+            <td>{{ lead.sl }}</td>
+            <td>{{ lead.lead_id }}</td>
+            <td>{{ lead.customer_name }}</td>
+            <td>{{ lead.mobile|default:"N/A" }}</td>
+            <td>{{ lead.lead_type }}</td>
+            <td>{{ lead.followup|default:"N/A" }}</td>
+            <td>{{ lead.associate|default:"N/A" }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <a href="{% url 'add_lead' %}">Add New Lead</a>
+</body>
+</html>
