@@ -23,7 +23,7 @@ Project Management & Strategy: Sales growth, competitive analysis, and process o
 Here are some of the projects I’ve built and deployed:
 
 🌍 SkyJobs UK
- – Job portal platform
+ – Training portal platform
 
 🏡 Real Estate CRM
  – CRM solution for real estate
