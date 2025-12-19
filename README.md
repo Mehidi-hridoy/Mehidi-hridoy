@@ -1,50 +1,44 @@
-👋 Hi, I’m @Mehidi-hridoy
+Assalam...., I’m @Mehidi-hridoy
 
-Welcome to my GitHub! I’m a data-driven professional passionate about data analytics, business intelligence, automation, and web development. I enjoy turning raw data into actionable insights and building solutions that drive growth, efficiency, and digital transformation.
+I’m a Python-focused Full-Stack Developer and Data Analyst passionate about building scalable web applications, automating workflows, and turning data into actionable insights. I combine technical depth with a data-driven mindset to deliver solutions that are efficient, reliable, and growth-oriented.
 
-🔍 What I'm Working On
+🔍 What I Do
 
-🚀 Building and deploying web applications with Python, and modern frameworks.
-🌱 Exploring advanced techniques in data analytics, automation, and business intelligence using Python, SQL, Power BI, and Google Looker.
-📊 Optimizing Google Tag Manager and Google Analytics for data tracking, digital marketing insights, and performance measurement.
-💼 Combining my background in project management, sales strategy, and competitive analysis with technical expertise to deliver impactful solutions.
+🚀 Web Development: Full-stack applications using Python, Django, Django REST Framework, HTML, CSS, JavaScript, and SQL for robust, secure, and scalable systems.
+
+📊 Data Analysis & BI: Transform raw data into dashboards, reports, and actionable insights using Python, Power BI, Excel, and Google Looker Studio.
+
+🤖 Automation & AI: Implement automated workflows, CRM/marketing automations, and AI-powered chatbots to streamline operations and improve efficiency.
+
+💼 Tech-Driven Strategy: Leverage data analytics, system design, and technical solutions to support business decisions, growth, and digital transformation.
 
 💻 Key Skills & Tools
 
-Data Analytics: Python (Pandas, NumPy), SQL, Advanced Excel
-Business Intelligence: Power BI, Google Looker, Data Visualization
-Digital Analytics: Google Analytics, Google Tag Manager
-Automation: Excel VBA, Python scripting, Google App Script
-Web Development: HTML, CSS, JavaScript, js
-Project Management & Strategy: Sales growth, competitive analysis, and process optimization
+Python | Django | Django REST Framework | Full-Stack Web Development | SQL | Data Analysis | Power BI | Excel | Google Looker Studio | Automation | AI Chatbots | Workflow Optimization
 
-🌐 Live Demo Projects
+🌐 Highlighted Projects
 
-Here are some of the projects I’ve built and deployed:
+SkyJobs UK – Recruitment SaaS with lead automation and dashboards
 
-🌍 SkyJobs UK
- – Training portal platform
+Real Estate CRM – Web-based CRM solution
 
-🏡 Real Estate CRM
- – CRM solution for real estate
+Wow Perfume – E-commerce platform
 
-🛍️ Wow Perfume
- – E-commerce perfume shop
- 
-🛒 E-commerce Platform
- – Online shopping system
+AI Chatbot Project – Automated customer interaction
+
+E-commerce Platform – Full-stack online shopping system
 
 🌱 Learning & Growth
 
-Currently diving deeper into:
-Machine learning for predictive analytics
-Full-stack development for scalable applications
-Advanced BI techniques for smarter decision-making
+Full-stack and high-performance web applications
 
-🤝 Let’s Connect!
-💼 LinkedIn – Mehidi Hasan Hridoy https://www.linkedin.com/in/mehidihasanhridoy/
+Advanced data analytics and BI solutions
+
+AI and automation integrations for smarter workflows
+
+🤝 Let’s Connect
+
 📧 Email – hridoy21.21@gmail.com
 
 ⚡ Fun Fact
-
-When I’m not analyzing data or building web solutions, you’ll find me cycling, running, practicing calligraphy, or working on fitness goals. I’m passionate about continuous learning, meeting new people, and cultivating a healthy lifestyle.
+When I’m not coding or analyzing data, I enjoy cycling, running, calligraphy, and staying active—always exploring new ways to learn and grow.
